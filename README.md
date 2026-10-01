@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, eu sou o André Seiji Shiroma 👋
 
-<!--
-**AndreSeijiSH1/AndreSeijiSH1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Análise e Desenvolvimento de Sistemas na FECAP** (São Paulo) e em busca de **estágio em desenvolvimento de software**.
 
-Here are some ideas to get you started:
+Gosto de construir aplicações completas, do banco de dados à interface, e aprendo melhor colocando projetos de verdade no ar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 🚀 Projetos em destaque
+
+**[Sekai List](https://github.com/AndreSeijiSH1/Sekai_List)**
+Plataforma para fãs de anime, inspirada no MyAnimeList, com posts e curtidas no estilo Reddit. Meu primeiro projeto full stack pessoal, pensado para ser lançado com usuários reais.
+
+**KFKA — Plataforma de Acompanhamento Escolar** *(Projeto Interdisciplinar FECAP, 2º sem. — em andamento)*
+Aplicação web responsiva que conecta professores, administração escolar e responsáveis: autenticação por perfil, fluxo de revisão e publicação de relatórios bimestrais, auditoria de alterações e geração de PDF.
+<!-- Substitua pelo link do repositório: [Ver repositório](LINK) -->
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-seiji-shiroma/)

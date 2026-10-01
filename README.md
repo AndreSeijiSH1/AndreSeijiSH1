@@ -23,7 +23,7 @@ Gosto de construir aplicações completas, do banco de dados à interface, e apr
 **[Sekai List](https://github.com/AndreSeijiSH1/Sekai_List)**
 Plataforma para fãs de anime, inspirada no MyAnimeList, com posts e curtidas no estilo Reddit. Meu primeiro projeto full stack pessoal, pensado para ser lançado com usuários reais. (Em andamento)
 
-**KFKA — Plataforma de Acompanhamento Escolar** *(Projeto Interdisciplinar FECAP, 2º sem. — em andamento)*
+**[KFKA — Plataforma de Acompanhamento Escolar](https://github.com/AndreSeijiSH1/KFKA)** *(Projeto Interdisciplinar FECAP, 2º sem. — em andamento)*
 Aplicação web responsiva que conecta professores, administração escolar e responsáveis: autenticação por perfil, fluxo de revisão e publicação de relatórios bimestrais, auditoria de alterações e geração de PDF.
 <!-- Substitua pelo link do repositório: [Ver repositório](LINK) -->
 
